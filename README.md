@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **pratyushsahu0308/Pratyushsahu0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![pratyushsahu0308's GitHub | Languages](https://stats.quine.sh/pratyushsahu0308/languages-over-time?theme=light)](https://quine.sh)
